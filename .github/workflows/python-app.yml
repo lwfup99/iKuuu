@@ -50,4 +50,4 @@ jobs:
         
     - name: Test ikuuuSign.py
       run: |
-        python ./ikuuuSign.py
+        python /src/ikuuuSign.py
